@@ -1,2 +1,2 @@
 # leavebuddy
-A skype bot to manage employee leave requests.
+A Mattermost bot to manage employee leave requests via email.
